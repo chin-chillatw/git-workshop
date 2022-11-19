@@ -6,4 +6,10 @@ git 管理的是『動作』
 
 git status 是查看狀態
 
-q quit (log 後調出用q)
+git diff (暫存和工作目錄比較)
+
+git log -p 再加上commit 號碼 可以看到每次commit 修改內容
+
+q quit (log diff    後跳出用q)
+
+yoyo

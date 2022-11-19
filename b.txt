@@ -1,0 +1,9 @@
+add 
+
+commit=> 真的做出一個版本來 commit id 
+
+git 管理的是『動作』
+
+git status 是查看狀態
+
+q quit (log 後調出用q)

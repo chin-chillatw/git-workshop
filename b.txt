@@ -7,3 +7,5 @@ git 管理的是『動作』
 git status 是查看狀態
 
 q quit (log 後調出用q)
+
+branch 好像有一點難
